@@ -42,7 +42,6 @@ class PlaylistDetailsViewModel(
         /*if (playlist !is AbsCustomPlaylist) {
             // Playlist deleted
             if (!PlaylistsUtil.doesPlaylistExist(App.getContext(), playlist.id)) {
-                //TODO Finish the page
                 return
             }
             // Playlist renamed
